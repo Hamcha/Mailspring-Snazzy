@@ -1,11 +1,11 @@
-# Mailspring Theme Starter
+# Mailspring Snazzy Theme
 
-The Mailspring Theme Starter is a basic starting point for creating a theme for
+The Mailspring Snazzy theme for
 the [Mailspring](http://www.getmailspring.com/) email client.
 
-<img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />
+<img src="https://raw.githubusercontent.com/AlanSynn/Mailspring-Snazzy/master/screenshot/custom-theme.png" />
 
-## Getting Started
+## Getting Started for Your Custom Theme
 
 Creating a new theme in Mailspring is easy! Here's how you can do it.
 
